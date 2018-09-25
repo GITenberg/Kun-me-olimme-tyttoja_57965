@@ -1,0 +1,29 @@
+_repo: Kun-me-olimme-tyttoja_57965
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+creator:
+  author:
+    agent_name: Doudney, Sarah
+    birthdate: 1843
+    deathdate: 1926
+    gutenberg_agent_id: '33217'
+    url: http://www.gutenberg.org/2009/agents/33217
+description: ''
+gutenberg_issued: '2018-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57965'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kun me olimme tyttöjä
+url: http://www.gutenberg.org/ebooks/57965
