@@ -1,5 +1,5 @@
 _repo: Kun-me-olimme-tyttoja_57965
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hedman, Valfrid
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1939
     gutenberg_agent_id: '46070'
     url: http://www.gutenberg.org/2009/agents/46070
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doudney, Sarah
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '33217'
     url: http://www.gutenberg.org/2009/agents/33217
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57965#Kun-me-olimme-tyttoja
 gutenberg_issued: '2018-09-24'
 gutenberg_type: Text
 identifiers:
